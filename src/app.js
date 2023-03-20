@@ -5,6 +5,7 @@ const router = require('./routes');
 const errorHandler = require('./utils/errorHandler');
 require('dotenv').config();
 
+
 // Esta es nuestra aplicación
 const app = express();
 
